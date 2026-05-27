@@ -1,0 +1,18 @@
+git init
+
+git add .
+git commit -m "init project"
+
+git commit -m "add auth"
+
+git commit -m "add dosen crud"
+
+git commit -m "add csrf"
+
+git commit -m "add upload"
+
+git commit -m "add pagination"
+
+git commit -m "add dashboard"
+
+git commit -m "final project"
